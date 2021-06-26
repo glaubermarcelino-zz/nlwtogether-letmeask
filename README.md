@@ -45,7 +45,7 @@ Para executar o projeto.
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ver todos os detalhes.
 
-- [Layout Mobile](https://www.figma.com/file/IChe9rlbvwEPlKSRw3YTZU/Letmeask-(Copy)?node-id=0%3A1)
+- [Layout](https://www.figma.com/file/IChe9rlbvwEPlKSRw3YTZU/Letmeask-(Copy)?node-id=0%3A1)
 
 Feito com ♥ by <strong><a href="https://www.linkedin.com/in/gtstecnologia/">Glauber Marcelino, </a></strong>
 
