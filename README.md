@@ -18,9 +18,11 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/src/nlwtogether-letmeask.gif?raw=true" alt="Login" /> </p>
-<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/src/nlwtogether-letmeask.gif?raw=true" alt="Romm" /> </p>
-<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/src/nlwtogether-letmeask.gif?raw=true" alt="Admin Room" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/login.png?raw=true" alt="Login" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/Room.png?raw=true" alt="Romm" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/Admin%20Room.png?raw=true" alt="Admin Room" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/New%20Room.png?raw=true" alt="New Room" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/question.png?raw=true" alt="Questions" /> </p>
 
 
 ### `Clone this project`
