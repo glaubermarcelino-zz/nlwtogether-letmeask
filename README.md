@@ -18,9 +18,11 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/src/nlwtogether-letmeask.gif?raw=true" alt="Login" /> </p>
-<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/src/nlwtogether-letmeask.gif?raw=true" alt="Romm" /> </p>
-<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/src/nlwtogether-letmeask.gif?raw=true" alt="Admin Room" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/login.png?raw=true" alt="Login" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/Room.png?raw=true" alt="Romm" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/Admin%20Room.png?raw=true" alt="Admin Room" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/New%20Room.png?raw=true" alt="New Room" /> </p>
+<p align="center"> <img src="https://github.com/glaubermarcelino/nlwtogether-letmeask/blob/main/screens/question.png?raw=true" alt="Questions" /> </p>
 
 
 ### `Clone this project`
@@ -43,7 +45,7 @@ Para executar o projeto.
 
 Nos links abaixo você encontra o layout do projeto web e também do mobile. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ver todos os detalhes.
 
-- [Layout Mobile](https://www.figma.com/file/IChe9rlbvwEPlKSRw3YTZU/Letmeask-(Copy)?node-id=0%3A1)
+- [Layout](https://www.figma.com/file/IChe9rlbvwEPlKSRw3YTZU/Letmeask-(Copy)?node-id=0%3A1)
 
 Feito com ♥ by <strong><a href="https://www.linkedin.com/in/gtstecnologia/">Glauber Marcelino, </a></strong>
 
