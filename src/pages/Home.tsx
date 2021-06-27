@@ -40,17 +40,16 @@ export function Home() {
       });
       return;
     }
-if(roomRef.val().endedAt)
-{
-  await Swal.fire({
-    title: 'Warning',
-    text: 'Room already closed!',
-    icon: 'warning',
-    timer: 3000,
-    confirmButtonText: 'Ok'
-  });
-  return;
-}
+    if (roomRef.val().endedAt) {
+      await Swal.fire({
+        title: "Warning",
+        text: "Room already closed!",
+        icon: "warning",
+        timer: 3000,
+        confirmButtonText: "Ok",
+      });
+      return;
+    }
     history.push(`/rooms/${roomCode}`);
   }
 
